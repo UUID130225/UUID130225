@@ -7,17 +7,17 @@
 
 ---
 
-### 💫 About Me
+### About Me
 Hello! I am a **Software Engineer** specializing in desktop application development and hardware-software communication. I enjoy building efficient, reliable, and user-friendly software that interfaces with hardware devices.
 
-- 🔭 **Current Project:** Building smart desktop solutions for ID/driver license scanning with WPF, C#, and serial communication protocols.
-- 🌱 **Learning & Researching:** Advanced IoT architectures, embedded systems, and system optimization.
-- 💬 **Ask me about:** C#, .NET development, WPF layout/styling, Serial Port (RS232/RS485), and database integration.
-- ✉️ **How to reach me:** [nthun1325@gmail.com](mailto:nthun1325@gmail.com)
+- **Current Project:** Building smart desktop solutions for ID/driver license scanning with WPF, C#, and serial communication protocols.
+- **Learning & Researching:** Advanced IoT architectures, embedded systems, and system optimization.
+- **Ask me about:** C#, .NET development, WPF layout/styling, Serial Port (RS232/RS485), and database integration.
+- **How to reach me:** [nthun1325@gmail.com](mailto:nthun1325@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,17 +30,5 @@ Hello! I am a **Software Engineer** specializing in desktop application developm
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UUID130225&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UUID130225&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UUID130225&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>"Simplicity is the soul of efficiency."</i><br>
-  <img src="https://komarev.com/normal-badge.png?id=UUID130225&color=00F0FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
