@@ -21,7 +21,7 @@ Hello! I am a **Software Engineer** specializing in desktop application developm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,sqlserver,git,github,html,css,js" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,html,css,js" alt="My Skills" />
   </a>
 </p>
 
