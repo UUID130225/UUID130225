@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Nguyễn Minh Hùng's Profile Banner" width="100%" style="border-radius: 8px;">
-</p>
-
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nguy%E1%BB%85n+Minh+H%C3%B9ng+%F0%9F%91%8B;Software+Engineer;Specializing+in+.NET+%26+WPF;Building+Hardware+Integrations" alt="Typing SVG">
@@ -26,7 +21,7 @@ Hello! I am a **Software Engineer** specializing in desktop application developm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,visualstudio,vscode,sqlite,mysql,git,github,html,css,js" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,sqlserver,git,github,html,css,js" alt="My Skills" />
   </a>
 </p>
 
