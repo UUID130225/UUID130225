@@ -27,7 +27,7 @@ Hello! I am a **Software Engineer** specializing in desktop application developm
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UUID130225&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
